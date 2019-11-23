@@ -96,10 +96,10 @@
                                 <div class="row">
                                     <div class="col-md-12 col-sm-12">
                                         <div class="icon-bx-wraper">
-                                            <div class="icon-info" style="width: 13%">
+                                            <div class="icon-info">
                                                 <i class="flaticon-manufacture"></i>
                                             </div>
-                                            <div class="txt-info" style="width: 87%">
+                                            <div class="txt-info">
                                                 <h2>Industrial & Manufacture</h2>
                                             </div>
                                         </div>

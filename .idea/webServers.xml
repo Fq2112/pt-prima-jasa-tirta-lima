@@ -2,23 +2,15 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="d9539065-d1ad-4219-a5d4-e0b5d18ce577" name="salwa.co.id" url="http://salwa.co.id">
-        <fileTransfer host="salwa.co.id" port="21">
+      <webServer id="5182c26a-7dc2-4fac-b061-5090d94c5062" name="ptprimajasatirtalima.co.id" url="http://primajasatirtalima.com">
+        <fileTransfer host="primajasatirtalima.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="1d8541d9-07e0-46f0-a030-96c7d7bbcdb7" name="kupangenergi.co.id" url="http://kupangenergi.co.id">
-        <fileTransfer host="kupangenergi.co.id" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="b6465512-8e69-4fc4-a026-4a9e810138ff" name="supremewrap.co.id" url="http://supremewrap.co.id">
+      <webServer id="21e58e87-5285-40e7-afc2-407de016d0f3" name="supremewrap.co.id" url="http://supremewrap.co.id">
         <fileTransfer host="supremewrap.co.id" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />

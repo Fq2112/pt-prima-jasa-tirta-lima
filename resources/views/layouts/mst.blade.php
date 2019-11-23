@@ -202,11 +202,11 @@
                             <div class="logo-hide">
                                 <h1 class="logo">
                                     <a href="{{route('home')}}">
-                                        <img src="{{asset('images/logo/logotype_white.png')}}" alt="">
+                                        <img width="48" src="{{asset('images/logo/icon.png')}}" alt="">
                                     </a>
                                 </h1>
                             </div>
-                            <button class="btn-toggle"><i class="fa fa-reorder"></i></button>
+                            <button class="btn-toggle"><i class="fa fa-bars"></i></button>
                             <nav class="nav">
                                 @include('layouts.partials._headerMenu')
                             </nav>

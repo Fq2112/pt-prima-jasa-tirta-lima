@@ -37,7 +37,7 @@
     <!-- AOS -->
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css">
     <!-- Media queries -->
-    <link rel="stylesheet" href="{{asset('css/media-query.css')}}">
+    <link rel="stylesheet" href="{{asset('css/media.css')}}">
 
     <style>
         .required {
@@ -158,6 +158,16 @@
             color: #fdc716;
             background-color: #fff;
         }
+
+        .swal-button--confirm, .swal-button--edit {
+            background-color: #fdc716;
+            border: 1px solid #fdc716;
+            box-shadow: 0 2px 6px #ffcc13;
+        }
+
+        .swal-button--confirm:active, .swal-button--edit:active {
+            background-color: #fdc716;
+        }
     </style>
     @stack('styles')
 </head>
@@ -220,7 +230,7 @@
     </div>
 
     <!-- footer Start -->
-    <footer class="transparent-dark bgOverly footer-color7">
+    <footer class="footer-color7">
         <div class="content-widgets">
             <div class="container">
                 <div class="row">
@@ -440,7 +450,7 @@
         var options = {
             whatsapp: "+628118981975",
             email: "{{env('MAIL_USERNAME')}}",
-            call_to_action: "Contact us",
+            call_to_action: "Message us",
             button_color: "#fdc716",
             position: "left",
             order: "email,whatsapp",

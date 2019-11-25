@@ -36,7 +36,8 @@
                             <div class="tp-caption sfr stb text-center custom-size-8 white tp-resizeme zindex"
                                  data-x="center" data-hoffset="-15" data-y="310" data-speed="300" data-start="1800"
                                  data-easing="easeInOut">
-                                <a class="btn btn-yellow-light tp-resizeme" href="{{route('brief-history')}}"><b style="text-transform: uppercase">Learn more&ensp;<i
+                                <a class="btn btn-yellow-light tp-resizeme" href="{{route('services')}}"><b
+                                        style="text-transform: uppercase">Learn more&ensp;<i
                                             class="fa fa-search"></i></b></a>
                             </div>
                         </li>
@@ -53,7 +54,7 @@
                             <div class="tp-caption sfr stb text-center custom-size-8 white tp-resizeme zindex"
                                  data-x="center" data-hoffset="-15" data-y="310" data-speed="300" data-start="1800"
                                  data-easing="easeInOut">
-                                <a class="btn btn-yellow-light tp-resizeme" href="{{route('vision-mission')}}">
+                                <a class="btn btn-yellow-light tp-resizeme" href="{{route('contact')}}">
                                     <b style="text-transform: uppercase">Learn more&ensp;<i class="fa fa-search"></i></b></a>
                             </div>
                         </li>
